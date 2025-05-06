@@ -1,50 +1,50 @@
-# Hi, I'm Ansiya V K
+## Hi, I'm Ansiya V K
 
-*M.Sc. Mathematics Graduate | Aspiring Data Scientist | Python & ML Enthusiast*
+**M.Sc. Mathematics Graduate | Aspiring Data Scientist | Python & ML Enthusiast**
 
-I am a passionate and motivated data science enthusiast with a strong academic foundation in mathematics and hands-on experience in Python programming, machine learning, and data visualization tools. Currently working as a *Data Science Intern*, I thrive on solving real-world problems through data-driven solutions and statistical analysis.
+I am a motivated and detail-oriented data science enthusiast with a strong foundation in mathematics (M.Sc. from the University of Calicut) and hands-on experience in Python, machine learning, and data analysis.
 
-With a keen eye for detail and a commitment to continuous learning, I aim to contribute meaningfully to the world of data by transforming complex datasets into actionable insights.
-
----
-
-## ⚙ Technical Skills
-
-*Programming Languages:*  
-Python, SQL
-
-*Libraries & Frameworks:*  
-Pandas, NumPy, Scikit-Learn, TensorFlow, OpenCV, Matplotlib, Seaborn
-
-*Tools & Platforms:*  
-Jupyter Notebook, Visual Studio Code, Git & GitHub, Power BI, Tableau, Microsoft Excel
-
-*Soft Skills:*  
-Analytical Thinking, Problem Solving, Communication, Collaboration, Adaptability
+Currently upskilling through a professional data science program, I’m focused on building real-world projects, exploring data-driven solutions, and continuously developing my technical skills.
 
 ---
 
-## 📬 Connect with Me
+## Open to Work
 
-- [LinkedIn](https://linkedin.com/in/ansiya-v-k)
-- [GitHub](https://github.com/ansiya575)
-- *Email:* ansiya575@gmail.com
+I am actively seeking **full-time opportunities** in:
+
+- Data Science  
+- Machine Learning  
+- Data Analysis  
+- AI/ML Internship or Entry-Level Roles  
+
+If you're hiring or open to collaboration, feel free to reach out. I’m eager to contribute, learn, and grow in a professional environment.
 
 ---
 
-> “Turning data into insights, and insights into action.”
+## Connect with Me
 
-<!--
-**ansiya575/ansiya575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/ansiya575)  
+- **Email:** ansiya575@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Turning data into insights, and insights into action."*
+
+---
+
+
+
+## Technical Skills
+
+Python | SQL | Pandas | NumPy | Scikit-learn | TensorFlow | OpenCV | Matplotlib | Seaborn  
+Power BI | Tableau | Excel | Jupyter Notebook | VS Code | Git & GitHub  
+Analytical Thinking | Problem Solving | Communication | Teamwork | Adaptability
+
+## Current Focus
+
+- Building and deploying end-to-end machine learning models  
+- Gaining real-world experience through projects  
+- Enhancing skills in data analysis and Power BI  
+- Actively contributing to open-source and collaborative platforms
+
