@@ -23,7 +23,7 @@ If you're hiring or open to collaboration, feel free to reach out. I’m eager t
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/ansiya-v-k)  
 - [GitHub](https://github.com/ansiya575)  
 - **Email:** ansiya575@gmail.com  
 
